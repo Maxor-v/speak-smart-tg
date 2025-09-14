@@ -1,0 +1,91 @@
+2025-09-14 11:35:34,091 - database - INFO - Database initialized successfully
+2025-09-14 11:35:34,094 - aiogram.dispatcher - INFO - Start polling
+2025-09-14 11:35:34,345 - aiogram.dispatcher - INFO - Run polling for bot @ZzzUroc_bot id=8084629680 - 'ZzzUroc_bot'
+2025-09-14 11:35:42,898 - logger - INFO - User 5275811797 - outgoing: Приветственное сообщение
+2025-09-14 11:35:42,899 - aiogram.event - INFO - Update id=959180963 is handled. Duration 625 ms by bot id=8084629680
+2025-09-14 11:35:47,699 - aiogram.event - INFO - Update id=959180964 is handled. Duration 108 ms by bot id=8084629680
+2025-09-14 11:35:56,228 - aiogram.event - INFO - Update id=959180965 is handled. Duration 233 ms by bot id=8084629680
+2025-09-14 11:36:03,128 - aiogram.event - INFO - Update id=959180966 is handled. Duration 170 ms by bot id=8084629680
+2025-09-14 11:36:05,061 - logger - INFO - User 5275811797 - outgoing: Запрос передан оператору
+2025-09-14 11:36:05,179 - aiogram.event - INFO - Update id=959180967 is handled. Duration 389 ms by bot id=8084629680
+2025-09-14 11:36:08,986 - logger - INFO - User 5275811797 - outgoing: Начало сессии практики
+2025-09-14 11:36:09,389 - logger - INFO - User 5275811797 - outgoing: Аудиофраза: What did you do yesterday?
+2025-09-14 11:36:09,390 - aiogram.event - INFO - Update id=959180968 is handled. Duration 483 ms by bot id=8084629680
+2025-09-14 11:36:21,224 - logger - INFO - User 5275811797 - incoming: Голосовое сообщение
+2025-09-14 11:36:22,689 - logger - INFO - User 5275811797 - incoming: Распознанный текст: I did want play football
+2025-09-14 11:36:22,816 - logger - INFO - User 5275811797 - outgoing: Результат проверки: True. Найдены ключевые слова: i, i, i
+2025-09-14 11:36:22,818 - aiogram.event - INFO - Update id=959180969 is handled. Duration 2030 ms by bot id=8084629680
+2025-09-14 11:36:50,407 - logger - INFO - User 5275811797 completed session 1 with 1/1 correct answers
+2025-09-14 11:36:50,428 - logger - INFO - User 5275811797 - outgoing: Завершение сессии практики
+2025-09-14 11:36:50,537 - aiogram.event - INFO - Update id=959180970 is handled. Duration 172 ms by bot id=8084629680
+2025-09-14 11:36:55,426 - logger - INFO - User 5275811797 - outgoing: Статистика пользователя
+2025-09-14 11:36:55,426 - aiogram.event - INFO - Update id=959180971 is handled. Duration 172 ms by bot id=8084629680
+2025-09-14 11:37:04,765 - aiogram.event - INFO - Update id=959180972 is handled. Duration 141 ms by bot id=8084629680
+2025-09-14 11:37:06,171 - aiogram.event - INFO - Update id=959180973 is handled. Duration 139 ms by bot id=8084629680
+2025-09-14 11:37:09,378 - aiogram.event - INFO - Update id=959180974 is handled. Duration 155 ms by bot id=8084629680
+2025-09-14 11:37:10,681 - logger - INFO - User 5275811797 - outgoing: Начало сессии практики
+2025-09-14 11:37:10,988 - logger - INFO - User 5275811797 - outgoing: Аудиофраза: What are your plans for the weekend?
+2025-09-14 11:37:10,988 - aiogram.event - INFO - Update id=959180975 is handled. Duration 375 ms by bot id=8084629680
+2025-09-14 11:37:24,872 - logger - INFO - User 5275811797 - incoming: Голосовое сообщение
+2025-09-14 11:37:25,658 - logger - INFO - User 5275811797 - incoming: Распознанный текст: мои планы вас не касаются
+2025-09-14 11:37:25,849 - logger - INFO - User 5275811797 - outgoing: Результат проверки: False. Недостаточно ключевых слов. Найдено: 0, требуется: 2
+2025-09-14 11:37:25,850 - aiogram.event - INFO - Update id=959180976 is handled. Duration 1311 ms by bot id=8084629680
+2025-09-14 11:37:32,012 - logger - INFO - User 5275811797 - outgoing: Аудиофраза: What is your name?
+2025-09-14 11:37:32,012 - aiogram.event - INFO - Update id=959180977 is handled. Duration 342 ms by bot id=8084629680
+2025-09-14 11:37:39,834 - logger - INFO - User 5275811797 - incoming: Голосовое сообщение
+2025-09-14 11:37:40,805 - logger - INFO - User 5275811797 - incoming: Распознанный текст: My name is Вася
+2025-09-14 11:37:40,919 - logger - INFO - User 5275811797 - outgoing: Результат проверки: False. Недостаточно ключевых слов. Найдено: 0, требуется: 2
+2025-09-14 11:37:40,920 - aiogram.event - INFO - Update id=959180978 is handled. Duration 1422 ms by bot id=8084629680
+2025-09-14 11:46:41,554 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-14 11:46:41,568 - aiogram.dispatcher - INFO - Polling stopped for bot @ZzzUroc_bot id=8084629680 - 'ZzzUroc_bot'
+2025-09-14 11:47:05,009 - database - INFO - Database initialized successfully
+2025-09-14 11:47:05,046 - aiogram.dispatcher - INFO - Start polling
+2025-09-14 11:47:05,729 - aiogram.dispatcher - INFO - Run polling for bot @ZzzUroc_bot id=8084629680 - 'ZzzUroc_bot'
+2025-09-14 11:47:56,145 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-09-14 11:47:56,146 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8084629680)
+2025-09-14 11:48:07,371 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8084629680)
+2025-09-14 11:48:07,373 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-09-14 11:48:07,373 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8084629680)
+2025-09-14 11:48:18,595 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8084629680)
+2025-09-14 11:48:51,394 - logger - INFO - User 5275811797 - outgoing: Приветственное сообщение
+2025-09-14 11:48:51,394 - aiogram.event - INFO - Update id=959180979 is handled. Duration 311 ms by bot id=8084629680
+2025-09-14 11:48:53,921 - aiogram.event - INFO - Update id=959180980 is handled. Duration 125 ms by bot id=8084629680
+2025-09-14 11:48:56,314 - logger - INFO - User 5275811797 - outgoing: Запрос передан оператору
+2025-09-14 11:48:56,407 - aiogram.event - INFO - Update id=959180981 is handled. Duration 844 ms by bot id=8084629680
+2025-09-14 11:48:59,218 - aiogram.event - INFO - Update id=959180982 is handled. Duration 202 ms by bot id=8084629680
+2025-09-14 11:49:00,471 - aiogram.event - INFO - Update id=959180983 is handled. Duration 155 ms by bot id=8084629680
+2025-09-14 11:49:04,591 - aiogram.event - INFO - Update id=959180984 is handled. Duration 157 ms by bot id=8084629680
+2025-09-14 11:49:09,431 - logger - INFO - User 5275811797 - outgoing: Начало сессии практики
+2025-09-14 11:49:09,915 - logger - INFO - User 5275811797 - outgoing: Аудиофраза: Hello! How are you today?
+2025-09-14 11:49:09,916 - aiogram.event - INFO - Update id=959180985 is handled. Duration 625 ms by bot id=8084629680
+2025-09-14 11:49:19,090 - logger - INFO - User 5275811797 - incoming: Голосовое сообщение
+2025-09-14 11:49:20,224 - logger - INFO - User 5275811797 - incoming: Распознанный текст: I'm F
+2025-09-14 11:49:20,479 - logger - INFO - User 5275811797 - outgoing: Результат проверки: False. Недостаточно ключевых слов. Найдено: 0, требуется: 2
+2025-09-14 11:49:20,480 - aiogram.event - INFO - Update id=959180986 is handled. Duration 2061 ms by bot id=8084629680
+2025-09-14 11:49:29,583 - logger - INFO - User 5275811797 - outgoing: Аудиофраза: What is your name?
+2025-09-14 11:49:29,584 - aiogram.event - INFO - Update id=959180987 is handled. Duration 579 ms by bot id=8084629680
+2025-09-14 11:49:37,760 - logger - INFO - User 5275811797 - incoming: Голосовое сообщение
+2025-09-14 11:49:38,700 - logger - INFO - User 5275811797 - incoming: Распознанный текст: My name is Вася
+2025-09-14 11:49:39,019 - logger - INFO - User 5275811797 - outgoing: Результат проверки: True. Найдены ключевые слова: my, name, is
+2025-09-14 11:49:39,021 - aiogram.event - INFO - Update id=959180988 is handled. Duration 1641 ms by bot id=8084629680
+2025-09-14 11:49:44,475 - logger - INFO - User 5275811797 completed session 1 with 1/2 correct answers
+2025-09-14 11:49:44,535 - logger - INFO - User 5275811797 - outgoing: Завершение сессии практики
+2025-09-14 11:49:44,630 - aiogram.event - INFO - Update id=959180989 is handled. Duration 483 ms by bot id=8084629680
+2025-09-14 11:49:50,424 - logger - INFO - User 5275811797 - outgoing: Статистика пользователя
+2025-09-14 11:49:50,424 - aiogram.event - INFO - Update id=959180990 is handled. Duration 327 ms by bot id=8084629680
+2025-09-14 11:49:52,211 - logger - INFO - User 5275811797 - outgoing: Начало сессии практики
+2025-09-14 11:49:52,455 - logger - INFO - User 5275811797 - outgoing: Аудиофраза: What is your name?
+2025-09-14 11:49:52,455 - aiogram.event - INFO - Update id=959180991 is handled. Duration 500 ms by bot id=8084629680
+2025-09-14 11:49:59,441 - logger - INFO - User 5275811797 - incoming: Голосовое сообщение
+2025-09-14 11:50:00,277 - logger - INFO - User 5275811797 - incoming: Распознанный текст: My name is
+2025-09-14 11:50:00,832 - logger - INFO - User 5275811797 - outgoing: Результат проверки: True. Найдены ключевые слова: my, name, is
+2025-09-14 11:50:00,833 - aiogram.event - INFO - Update id=959180992 is handled. Duration 1766 ms by bot id=8084629680
+2025-09-14 11:50:05,414 - logger - INFO - User 5275811797 completed session 2 with 1/1 correct answers
+2025-09-14 11:50:05,491 - logger - INFO - User 5275811797 - outgoing: Завершение сессии практики
+2025-09-14 11:50:05,579 - aiogram.event - INFO - Update id=959180993 is handled. Duration 282 ms by bot id=8084629680
+2025-09-14 11:50:08,519 - logger - INFO - User 5275811797 - outgoing: Статистика пользователя
+2025-09-14 11:50:08,519 - aiogram.event - INFO - Update id=959180994 is handled. Duration 297 ms by bot id=8084629680
+2025-09-14 11:50:16,177 - logger - INFO - User 5275811797 - outgoing: Сообщение помощи
+2025-09-14 11:50:16,177 - aiogram.event - INFO - Update id=959180995 is handled. Duration 1139 ms by bot id=8084629680
+2025-09-14 11:51:31,240 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-14 11:51:31,293 - aiogram.dispatcher - INFO - Polling stopped for bot @ZzzUroc_bot id=8084629680 - 'ZzzUroc_bot'
